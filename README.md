@@ -1,0 +1,2 @@
+# lotohub-privacy
+Privacy Policy
